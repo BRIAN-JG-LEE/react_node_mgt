@@ -1,3 +1,7 @@
+## React_node_mgt_system
+
+본 프로젝트는 react와 node express 를 활용한 고객관리 시스템 입니다.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
